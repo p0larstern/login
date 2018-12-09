@@ -1,0 +1,20 @@
+{
+    "gh": {
+        "url": "https://github.com/login",
+        "name1": "login",
+        "name2": "password",
+        "name3": "commit"
+    },
+    "fb": {
+        "url": "https://www.facebook.com/login",
+        "name1": "email",
+        "name2": "pass",
+        "name3": "login"
+    },
+    "cc": {
+        "url": "https://www.codechef.com/",
+        "name1": "name",
+        "name2": "pass",
+        "name3": "op"
+    }
+}
